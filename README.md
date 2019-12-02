@@ -1,2 +1,2 @@
 # linz-nz-topo50
-Land Information New Zealand Toitū te Whenua – 
+LINZ Toitū te Whenua – New Zealand; topographic; 1:50,000
